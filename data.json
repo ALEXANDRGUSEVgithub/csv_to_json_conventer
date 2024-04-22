@@ -1,0 +1,32 @@
+[
+ {
+  "Name": "Alexandr",
+  "Age": 31,
+  "Height": 178,
+  "Weight": 86
+ },
+ {
+  "Name": "Oleg",
+  "Age": 43,
+  "Height": 137,
+  "Weight": 95
+ },
+ {
+  "Name": "Vladimir",
+  "Age": 27,
+  "Height": 180,
+  "Weight": 91
+ },
+ {
+  "Name": "Dmitry",
+  "Age": 18,
+  "Height": 190,
+  "Weight": 88
+ },
+ {
+  "Name": "Gosha",
+  "Age": 15,
+  "Height": 140,
+  "Weight": 77
+ }
+]

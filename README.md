@@ -40,13 +40,7 @@ Python 3
 - Возраст преобразуется в целое число.
 - После этого данные сохраняются в JSON файл с помощью модуля `json`.
 
-## Пример использования
 
-```python
-csvFilePath = 'mlb_players.csv'
-jsonFilePath = 'data.json'
-csv_to_json(csvFilePath, jsonFilePath)
-```
 ## Результат работы
 ```json
 [

@@ -26,7 +26,7 @@ def csv_to_json(csvFilePath, jsonFilePath):
 
                 processed_row['Height'] = convert_inches_to_sm(float(processed_row.pop('Height(inches)')))
 
-                processed_row['Weight'] = convert_ibs_to_kg(float(processed_row.pop('Weight(ibs)')))
+                processed_row['Weight'] = convert_ibs_to_kg(float(processed_row.pop('Weight(lbs)')))
 
                 processed_row['Age'] = int(float(processed_row['Age']))
 
